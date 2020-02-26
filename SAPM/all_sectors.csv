@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1088890f69ebbeac1987d3b852d18fe9846e99e60bc66c2f4d9c66825a281ed1
-size 305
+Sector,Company Name,Symbol
+Infrasturee ,Larsen,LT
+Bank ,ICICI,ICICIBANK
+Auto,Eicher,EICHERMOT
+Finance,Housing Development Finance Corportaion,HDFC
+IT,Wipro,WIPRO
+Pharma,SUN PHARMACEUTICAL,SUNPHARMA
+FMCG,ITC,ITC
+Consumer Goods,Videocon Industries,VIDEOIND
+Metals ,Hindustan Zinc,HINDZINC
+Technlogy,TCS,TCS
