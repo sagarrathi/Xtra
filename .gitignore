@@ -1,0 +1,18 @@
+*.epf
+*.job
+*.pro
+*.o
+.ipynb_checkpoints/
+import.py
+*~*
+*.meta
+*.index
+*.h5y
+*.mp4
+*.avi
+*.h5
+
+#git rm -r --cached . 
+#git add .
+
+# find ./* -size +30M | cat >> .gitignore
